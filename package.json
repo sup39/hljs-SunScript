@@ -1,5 +1,5 @@
 {
-  "name": "@sup39/hljs-SunScript",
+  "name": "@sup39/hljs-sunscript",
   "description": "highlight.js language definition for SunScript",
   "version": "0.1.0",
   "main": "index.js",

@@ -4,7 +4,7 @@
 ## Usage
 ```javascript
 const hljs = require('highlight.js');
-const ss = require('@sup39/hljs-SunScript');
+const ss = require('@sup39/hljs-sunscript');
 
 // register language
 hljs.registerLanguage('SunScript', ss);
