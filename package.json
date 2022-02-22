@@ -1,0 +1,17 @@
+{
+  "name": "@sup39/hljs-SunScript",
+  "description": "highlight.js language definition for SunScript",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "sup39",
+  "repository": "https://github.com/sup39/hljs-SunScript",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "@sup39/eslint-config-basic": "^0.1.3",
+    "eslint": "^8.9.0",
+    "highlight.js": "^11.4.0"
+  }
+}
